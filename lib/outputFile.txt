@@ -1,0 +1,5 @@
+Symbol  Value  Length  Relocation
+PG1       0       1      R
+FOUR       12       4      R
+FIVE       16       4      R
+TEMP       20       4      R
